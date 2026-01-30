@@ -1,5 +1,6 @@
 <h1>Hi, I'm Brandon Boyd! <br/><a 
-href="https://www.linkedin.com/in/brandonboyd88/">Data Analyst</a>
+href="https://www.linkedin.com/in/brandonboyd88/">Data Analyst</a>, <a
+href=>Data Engineer</a>                                                                     
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
