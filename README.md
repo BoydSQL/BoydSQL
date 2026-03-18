@@ -13,6 +13,9 @@ href=>Data Engineer</a>
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=eae5f754-0c35-4c07-8737-4052e3358b19)
 
+- <b>📜Power BI Boot Camp</b>
+  - [Power BI Training](https://www.virtualbadge.io/certificate-validator?credential=31a18215-ed20-4ffb-b1dd-7e66178ac911)
+
 - <b>📜Microsoft Azure</b>
   - [Data Fundamentals](https://learn.microsoft.com/en-us/users/brandonboyd-9598/credentials/9b1a53dc4fd9cab4?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 
