@@ -7,6 +7,8 @@ href=>Data Engineer</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/BoydSQL/SQL_Techniques/blob/main/README.md)
+- <b>💾Power BI</b>
+  - [Demonstrating Power BI Techniques](https://github.com/BoydSQL/gone-soon/blob/fcac74c89d8834ba4688fc0186c9eaabba5695b2/powerbiscreen.png) 
 
 <h2>📚Certifications:</h2>
 
