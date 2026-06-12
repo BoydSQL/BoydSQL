@@ -8,7 +8,9 @@ href=>Data Engineer</a>
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/BoydSQL/SQL_Techniques/blob/main/README.md)
 - <b>💾Power BI</b>
-  - [Demonstrating Power BI Techniques](https://github.com/BoydSQL/gone-soon/blob/fcac74c89d8834ba4688fc0186c9eaabba5695b2/powerbiscreen.png) 
+  - [Demonstrating Power BI Techniques](<img width="1472" height="859" alt="Image" src="https://github.com/user-attachments/assets/e10f4ddd-2880-430f-87ae-cff6776f95bd" />)
+- <b>💾Excel</b>
+  - [Demonstrating Excel Techniques](<img width="1658" height="562" alt="Image" src="https://github.com/user-attachments/assets/27c1f10c-2293-43be-8989-c6566ef4eaea" />) 
 
 <h2>📚Certifications:</h2>
 
